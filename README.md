@@ -38,12 +38,12 @@ Os alunos devem trabalhar em grupos para criar um documento Markdown colaborativ
    Se houver conflitos de código, o grupo deve trabalhar em conjunto para resolvê-los e garantir que todos os commits sejam integrados corretamente.
 
 8. **Unir o Projeto Final**  
-   No final, o grupo deve juntar todas as secções num único ficheiro Markdown (por exemplo, `guia_jogo_completo.md`), revendo a estrutura e certificando-se de que todas as partes estão devidamente conectadas.
+   Depois de fazer todos os commits individuais, o grupo deve-se juntar para definir e estruturar todas as secções num único ficheiro Markdown, revendo o conteúdo e certificando-se de que todas as partes estão devidamente conectadas.
 
-9. **Commit Final e Push**  
+1. **Commit Final e Push**  
    Após unificar todas as partes, fazer o commit final com o documento completo.
 
-10. **Apresentação do Trabalho e Q&A (10-15 minutos)**  
+2.  **Apresentação do Trabalho e Q&A (10-15 minutos)**  
     Cada grupo deve apresentar o documento final à turma, mostrando como colaboraram para completar o projeto e discutindo os desafios enfrentados durante o processo.
 
 ### Elementos obrigatórios para cada secção:
