@@ -46,13 +46,13 @@ Os alunos devem trabalhar em grupos para criar um documento Markdown colaborativ
 2.  **Apresentação do Trabalho e Q&A (10-15 minutos)**  
     Cada grupo deve apresentar o documento final à turma, mostrando como colaboraram para completar o projeto e discutindo os desafios enfrentados durante o processo.
 
-### Elementos obrigatórios para cada secção:
+### Elementos obrigatórios:
 - Uso dos ficheiros `.gitignore` e `.gitattributes` (disponíveis no moodle).
 - Uso correto de cabeçalhos e listas.
-- Pelo menos uma imagem.
-- Pelo menos um link.
-- Um fluxograma criado com Mermaid.
+- Pelo menos uma imagem por seccção.
+- Pelo menos um link por secção.
+- Uma secção que contenha um fluxograma criado com Mermaid.
 
-### Dicas para os Alunos:
+### Observações:
 - **Branches**: Cada aluno pode criar uma branch separada para evitar conflitos durante o desenvolvimento.
 - **Conflitos Git**: Aproveitar para discutir a resolução de conflitos e o trabalho coordenado em equipa.
